@@ -11,14 +11,12 @@
 
 
 // Layers
-enum Layer {
-    BASE,
-    SYM,
-    EXT,
-    FNC,
-    SYM2,
-    SETTINGS,
-};
+#define BASE 0
+#define SYM 1
+#define EXT 2
+#define FNC 3
+#define SYM2 4
+#define SETTINGS 5
 
 / {
     behaviors {

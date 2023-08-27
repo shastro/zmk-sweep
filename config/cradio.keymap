@@ -56,7 +56,7 @@
             // ! @ # $ %  ^ & * - + 
             &kp EXCL &kp AT_SIGN &kp HASH &kp DOLLAR &kp PERCENT &kp CARET &kp AMPS &kp ASTRK &kp MINUS &kp PLUS
             // < ( { [ / 
-            &kp LT &kp LPAR &kp LBRC &kp LBKT  &kp FLSH    &kp APOS &kp PIPE &kp GRAVE &kp UNDERSCORE &kp EQUAL
+            &kp LT &kp LPAR &kp LBRC &kp LBKT  &kp FSLH    &kp APOS &kp PIPE &kp GRAVE &kp UNDERSCORE &kp EQUAL
             &kp GT &kp RPAR &kp RBRC &kp RBKT  &kp BSLH    &kp DQT &kp PIPE &kp TILDE &kp COLON &kp QMARK
             &trans &trans &trans &trans
             >;
